@@ -1,0 +1,101 @@
+{
+    "rom_info": {
+      "game_name": "phozon",
+      "rom_filename": "phozon.zip",
+	  "driver": "phozon",
+      "wavetable_filename": "sound.prm",
+      "songs_total": 24,
+      "songs_table": "0xE4A2",
+      "notes_table": "0xE538",
+	  "song_offsets": "0xE442",
+      "waves_table": "0xE506",
+      "rom_files": [
+        {
+          "offset": "0xE000",
+          "filename": "3b.rom"
+        }
+      ]
+    },
+  "game_info": {
+    "game_title": "Phozon",
+    "platform": "Namco Super Pacman",
+    "date": "1983/08",
+    "notes": "Written for Namco 15XX 8-voice Wavetable Sound Generator (WSG) and converted to C352 using wsg2vgm.py.",
+    "vgm_author": "gRg",
+    "author": "Yuriko Keino"
+  },
+  "songs": [
+    {
+      "song_title": "Credit Sound"
+    },
+    {
+      "song_title": "Round Start Music"
+    },
+    {
+      "song_title": "Try Again Music"
+    },
+    {
+      "song_title": "Round Clear Music"
+    },
+    {
+      "song_title": "Game Over Music"
+    },
+    {
+      "song_title": "High Score Music"
+    },
+    {
+      "song_title": "Name Entry Music"
+    },
+    {
+      "song_title": "Game Start Music"
+    },
+    {
+      "song_title": "In-Game Ambience"
+    },
+    {
+      "song_title": "Sound #0"
+    },
+    {
+      "song_title": "Sound #1"
+    },
+    {
+      "song_title": "Sound #2"
+    },
+    {
+      "song_title": "Sound #3"
+    },
+    {
+      "song_title": "Sound #4"
+    },
+    {
+      "song_title": "Sound #5"
+    },
+    {
+      "song_title": "Sound #6"
+    },
+    {
+      "song_title": "Sound #7"
+    },
+    {
+      "song_title": "Sound #8"
+    },
+    {
+      "song_title": "Sound #9"
+    },
+    {
+      "song_title": "Sound #10"
+    },
+    {
+      "song_title": "Extend"
+    },
+    {
+      "song_title": "Miss"
+    },
+    {
+      "song_title": "Sound #11"
+    },
+    {
+      "song_title": "Counter-Attack Music"
+    }
+  ]
+}

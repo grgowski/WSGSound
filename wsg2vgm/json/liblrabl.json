@@ -1,0 +1,89 @@
+{
+    "rom_info": {
+      "game_name": "liblrabl",
+      "rom_filename": "liblrabl.zip",
+	  "driver": "grobda",
+      "wavetable_filename": "lr1-4.3d",
+      "songs_total": 20,
+      "songs_table": "0xE4C0",
+      "notes_table": "0xE3FB",
+	  "volenv_table": "0xE36C",
+      "dur_multiplier": "0xE484",
+      "rom_files": [
+        {
+          "offset": "0xE000",
+          "filename": "2c.rom"
+        }
+      ]
+    },
+  "game_info": {
+    "game_title": "Libble Rable",
+    "platform": "Namco System 16 Universal",
+    "date": "1983/10",
+    "notes": "Written for Namco 15XX 8-voice Wavetable Sound Generator (WSG) and converted to C352 using wsg2vgm.py.",
+    "vgm_author": "gRg",
+    "author": "Nobuyuki Ohnogi"
+  },
+  "songs": [
+    {
+      "song_title": "Credit"
+    },
+    {
+      "song_title": "Overcharge Music"
+    },
+    {
+      "song_title": "FLOWER completed music"
+    },
+    {
+      "song_title": "Introduction"
+    },
+    {
+      "song_title": "Main Theme"
+    },
+    {
+      "song_title": "Bashishi"
+    },
+    {
+      "song_title": "Appearance of Killer, Shears and Changer"
+    },
+    {
+      "song_title": "Cut by Shears"
+    },
+    {
+      "song_title": "Change"
+    },
+    {
+      "song_title": "Round Start Music"
+    },
+    {
+      "song_title": "Miss"
+    },
+    {
+      "song_title": "Name Entry Music"
+    },
+    {
+      "song_title": "Game Over Music"
+    },
+    {
+      "song_title": "Ending Overcharge Alarm"
+    },
+    {
+      "song_title": "Treasure Chest"
+    },
+    {
+      "song_title": "Adding Bonus Music"
+    },
+    {
+      "song_title": "Fanfare for Chest Treasure Appearance"
+    },
+    {
+      "song_title": "Extend"
+    },
+    {
+      "song_title": "Adding Energy"
+    },
+    {
+      "song_title": "BRIDAL completed music"
+    }
+  ]
+}

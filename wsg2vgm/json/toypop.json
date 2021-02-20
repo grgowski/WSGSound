@@ -1,0 +1,117 @@
+{
+    "rom_info": {
+      "game_name": "toypop",
+      "rom_filename": "toypop.zip",
+	  "driver": "todruaga",
+      "wavetable_filename": "tp1-6.3d",
+      "songs_total": 28,
+      "songs_table": "0xE746",
+      "notes_table": "0xE6CB",
+      "volenv_table": "0xE5C9",
+      "volenv_total": 28,
+      "voice_offset_table": "0xE77E",
+      "rom_files": [
+        {
+          "offset": "0xE000",
+          "filename": "tp1-3.2c"
+        }
+      ]
+    },
+  "game_info": {
+    "game_title": "Toy Pop",
+    "platform": "Namco System 16 Universal",
+    "date": "1986/04",
+    "notes": "Written for Namco 15XX 8-voice Wavetable Sound Generator (WSG) and converted to C352 using wsg2vgm.py.",
+    "vgm_author": "gRg",
+    "author": "Junko Ozawa"
+  },
+  "songs": [
+    {
+      "song_title": "Round Start"
+    },
+    {
+      "song_title": "Scoring Sound"
+    },
+    {
+      "song_title": "Game Over Music"
+    },
+    {
+      "song_title": "Name Entry Music"
+    },
+    {
+      "song_title": "In-Game Music"
+    },
+    {
+      "song_title": "Bonus Round Music"
+    },
+    {
+      "song_title": "Round Clear Music"
+    },
+    {
+      "song_title": "Story Music"
+    },
+    {
+      "song_title": "Sound of Cyclone"
+    },
+    {
+      "song_title": "Sound of Bomb Explosion"
+    },
+    {
+      "song_title": "Sound of the Door Opening"
+    },
+    {
+      "song_title": "Timed Explosion Sound 1"
+    },
+    {
+      "song_title": "Sound of Cards Completed"
+    },
+    {
+      "song_title": "Sound of Winning Treats"
+    },
+    {
+      "song_title": "Sound of Winning Heart Seven Stars"
+    },
+    {
+      "song_title": "Sound of Winning Arms"
+    },
+    {
+      "song_title": "Hurry-Up Music",
+	  "loop": true,
+	  "loop_end": 881,
+	  "loop_offset": 832
+    },
+    {
+      "song_title": "-"
+    },
+    {
+      "song_title": "Warp Sound"
+    },
+    {
+      "song_title": "Punch Sound"
+    },
+    {
+      "song_title": "Sound of Undressing"
+    },
+    {
+      "song_title": "Star Bomb Sound"
+    },
+    {
+      "song_title": "Shooting Sound"
+    },
+    {
+      "song_title": "Sound of Hitting Enemy Character"
+    },
+    {
+      "song_title": "Timed Explosion Sound 2"
+    },
+    {
+      "song_title": "Miss Sound"
+    },
+    {
+      "song_title": "Special Flag Sound"
+    },
+    {
+      "song_title": "-"
+    }
+  ]
+}

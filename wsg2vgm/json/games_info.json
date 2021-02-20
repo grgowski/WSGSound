@@ -1,0 +1,134 @@
+{
+  "rom_path": "H:/Projects/mame/roms/",
+  "games": [
+    {
+      "game_name": "skykid",
+      "rom_filename": "skykid.zip",
+	  "driver": "skykid",
+      "songs_total": 20,
+      "data_address": "0x800D",
+      "notes_table": "0xFC51",
+      "rom_files": [
+        {
+          "offset": "0x8000",
+          "filename": "sk2_4.3c"
+        },
+        {
+          "offset": "0xF000",
+          "filename": "cus63-63a1.mcu"
+        }
+      ]
+    },
+    {
+      "game_name": "drgnbstr",
+      "rom_filename": "drgnbstr.zip",
+	  "driver": "skykid",
+      "songs_total": 32,
+      "data_address": "0x8014",
+      "notes_table": "0xFC51",
+      "rom_files": [
+        {
+          "offset": "0x8000",
+          "filename": "db1_4.3c"
+        },
+        {
+          "offset": "0xF000",
+          "filename": "cus60-60a1.mcu"
+        }
+      ]
+    },
+    {
+      "game_name": "metrocrs",
+      "rom_filename": "metrocrs.zip",
+	  "driver": "skykid",
+      "songs_total": 18,
+      "data_address": "0x8010",
+      "notes_table": "0xFC51",
+      "rom_files": [
+        {
+          "offset": "0x8000",
+          "filename": "mc1-4.3b"
+        },
+        {
+          "offset": "0xF000",
+          "filename": "cus60-60a1.mcu"
+        }
+      ]
+    },
+    {
+      "game_name": "pacland",
+      "rom_filename": "pacland.zip",
+	  "driver": "skykid",
+      "songs_total": 32,
+      "data_address": "0x801F",
+      "notes_table": "0xFC51",
+      "rom_files": [
+        {
+          "offset": "0x8000",
+          "filename": "pl1_7.3e"
+        },
+        {
+          "offset": "0xF000",
+          "filename": "cus60-60a1.mcu"
+        }
+      ]
+    },
+    {
+      "game_name": "baraduke",
+      "rom_filename": "baraduke.zip",
+	  "driver": "skykid",
+      "songs_total": 32,
+      "data_address": "0x801B",
+      "notes_table": "0xFC51",
+      "rom_files": [
+        {
+          "offset": "0x8000",
+          "filename": "bd1_4b.3b"
+        },
+        {
+          "offset": "0xF000",
+          "filename": "cus60-60a1.mcu"
+        }
+      ]
+    },
+    {
+      "game_name": "superpacm",
+      "rom_filename": "superpacm.zip",
+	  "driver": "superpacm",
+      "wavetable_filename": "superpac.3m",
+      "songs_total": 23,
+      "songs_table": "0xF461",
+      "notes_table": "0xF5CC",
+	  "song_offsets": "0xF405",
+      "waves_table": "0xF4F1",
+	  "note_tuning": "0xF4C1",
+	  "decay": "0xF581",
+	  "sustain": "0xF551",
+	  "attack": "0xF521",
+	  "attack_env": "0xF5B1",
+      "rom_files": [
+        {
+          "offset": "0xF000",
+          "filename": "spc-3.1k"
+        }
+      ]
+    },
+    {
+      "game_name": "grobda",
+      "rom_filename": "grobda.zip",
+	  "driver": "grobda",
+      "wavetable_filename": "gr1-3.3m",
+      "songs_total": 23,
+      "songs_table": "0xE8BA",
+      "notes_table": "0xE99C",
+	  "volenv_table": "0xE90A",
+      "dur_multiplier": "0xE98C",
+      "rom_files": [
+        {
+          "offset": "0xE000",
+          "filename": "gr1-4.1k"
+        }
+      ]
+    }
+  ]
+}

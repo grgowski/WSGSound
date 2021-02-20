@@ -1,0 +1,117 @@
+{
+    "rom_info": {
+      "game_name": "motos",
+      "rom_filename": "motos.zip",
+	  "driver": "todruaga",
+      "wavetable_filename": "mo1-3.3m",
+      "songs_total": 26,
+      "songs_table": "0xE5A1",
+      "notes_table": "0xE730",
+      "volenv_table": "0xE623",
+      "volenv_total": 33,
+      "voice_offset_table": "0xE5D5",
+      "rom_files": [
+        {
+          "offset": "0xE000",
+          "filename": "mo1_4.1k"
+        }
+      ]
+    },
+  "game_info": {
+    "game_title": "Motos",
+    "platform": "Namco Super Pacman",
+    "date": "1985/09/20",
+    "notes": "Written for Namco 15XX 8-voice Wavetable Sound Generator (WSG) and converted to C352 using wsg2vgm.py.'",
+    "vgm_author": "gRg",
+    "author": "Norio Nakagata"
+  },
+  "songs": [
+    {
+      "song_title": "Ingame Music",
+	  "loop": true,
+	  "loop_offset": 96,
+	  "loop_end": 1056
+    },
+    {
+      "song_title": "Giga, Mega Incoming Sound",
+	  "loop": true,
+	  "loop_offset": 18,
+	  "loop_end": 72
+    },
+    {
+      "song_title": "No Name"
+    },
+    {
+      "song_title": "Power Flying Part Tone"
+    },
+    {
+      "song_title": "Base Field Fall Sound"
+    },
+    {
+      "song_title": "Beecon Fall Sound"
+    },
+    {
+      "song_title": "Power Flying Part Fall Sound"
+    },
+    {
+      "song_title": "Space Bee, Motos Fall Sound"
+    },
+    {
+      "song_title": "Beecon Hit Sound"
+    },
+    {
+      "song_title": "Nabicon Hit Sound"
+    },
+    {
+      "song_title": "Pupa Hit Sound"
+    },
+    {
+      "song_title": "Giga, Mega Hit Sound"
+    },
+    {
+      "song_title": "Space Bee Hit Sound"
+    },
+    {
+      "song_title": "Motos Jump Sound"
+    },
+    {
+      "song_title": "Parts Determination Sound"
+    },
+    {
+      "song_title": "Meteor Base Field Fall Sound"
+    },
+    {
+      "song_title": "Meteor Incoming Sound"
+    },
+    {
+      "song_title": "Parts Selection Sound"
+    },
+    {
+      "song_title": "Round Clear Music"
+    },
+    {
+      "song_title": "Name Entry Music"
+    },
+    {
+      "song_title": "Round Start Music"
+    },
+    {
+      "song_title": "Extend Fanfare"
+    },
+    {
+      "song_title": "High Score Fanfare"
+    },
+    {
+      "song_title": "Game Over Music"
+    },
+    {
+      "song_title": "Attract Music",
+	  "loop": true,
+	  "loop_offset": 96,
+	  "loop_end": 1248
+    },
+    {
+      "song_title": "Credit Sound"
+    }
+ ]
+}

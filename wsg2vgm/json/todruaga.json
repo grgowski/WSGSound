@@ -1,0 +1,135 @@
+{
+	"rom_info": {
+      "game_name": "todruaga",
+      "rom_filename": "todruaga.zip",
+	  "driver": "todruaga",
+      "wavetable_filename": "td1-3.3m",
+      "songs_total": 32,
+      "songs_table": "0xE5E5",
+      "notes_table": "0xE685",
+      "volenv_table": "0xE517",
+      "volenv_total": 27,
+      "voice_offset_table": "0xE625",
+      "rom_files": [
+        {
+          "offset": "0xE000",
+          "filename": "td1_4.1k"
+        }
+      ]
+	},
+    "game_info": {
+		"game_title": "The Tower of Druaga",
+		"platform": "Namco Super Pacman",
+		"date": "1984/06",
+		"notes": "Originally written for the Namco 15XX 8-voice Wavetable Sound Generator (WSG). Converted to C352 by gRg. Song titles adopted from https://vgmdb.net/album/16869",
+		"vgm_author": "gRg",
+		"author": "Junko Ozawa"
+	},
+	"songs": [
+	{
+      "song_title": "Start Music",
+      "rows_len": 96
+    },
+    {
+      "song_title": "Clear Music",
+      "rows_len": 120
+    },
+    {
+      "song_title": "Ending Fanfare",
+      "rows_len": 128
+    },
+    {
+      "song_title": "Zap"
+    },
+    {
+      "song_title": "The Theme of Ishtar",
+      "rows_len": 140,
+	  "loop": true
+	  
+    },
+    {
+      "song_title": "In-Game Music",
+	  "loop": true
+    },
+    {
+      "song_title": "The Theme of Quox",
+	  "loop": true
+    },
+    {
+      "song_title": "The Theme of Druaga",
+	  "loop": true
+    },
+    {
+      "song_title": "Chime Sound"
+    },
+    {
+      "song_title": "Slime: Move"
+    },
+    {
+      "song_title": "Sorcerer Spell: Cast"
+    },
+    {
+      "song_title": "Fire Element: Lighting"
+    },
+    {
+      "song_title": "Wall: Destruction"
+    },
+    {
+      "song_title": "Quox: Flame-breathing"
+    },
+    {
+      "song_title": "Sword: Drawing"
+    },
+    {
+      "song_title": "Sword: Swinging"
+    },
+    {
+      "song_title": "Sword: Attacking"
+    },
+    {
+      "song_title": "Sword: Sheathing"
+    },
+    {
+      "song_title": "Sword: Cutting"
+    },
+    {
+      "song_title": "Unused Sound  #1"
+    },
+    {
+      "song_title": "Spell: Reflection"
+    },
+    {
+      "song_title": "Door: Open"
+    },
+    {
+      "song_title": "Treasure Box: Get #1"
+    },
+    {
+      "song_title": "Treasure Box: Get #2"
+    },
+    {
+      "song_title": "Unused Sound  #2"
+    },
+    {
+      "song_title": "Gil: Walk"
+    },
+    {
+      "song_title": "Credit Sound, Ending"
+    },
+    {
+      "song_title": "Miss"
+    },
+    {
+      "song_title": "Game Over"
+    },
+    {
+      "song_title": "Name Entry"
+    },
+    {
+      "song_title": "Extend Sound"
+    },
+    {
+      "song_title": "Credit Sound"
+    }
+  ]
+}

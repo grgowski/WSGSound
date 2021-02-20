@@ -1,0 +1,99 @@
+{
+    "rom_info": {
+      "game_name": "mappy",
+      "rom_filename": "mappy.zip",
+	  "driver": "mappy",
+      "wavetable_filename": "mp1-3.3m",
+      "songs_total": 23,
+      "songs_table": "0xE697",
+      "notes_table": "0xE599",
+	  "volenv_table": "0xE50F",
+      "dur_multiplier": "0xE652",
+      "voice_offset_table": "0xE63B",
+      "rom_files": [
+        {
+          "offset": "0xE000",
+          "filename": "mp1_4.1k"
+        }
+      ]
+    },
+  "game_info": {
+    "game_title": "Mappy",
+    "platform": "Namco Super Pacman",
+    "date": "1983/03",
+    "notes": "Written for Namco 15XX 8-voice Wavetable Sound Generator (WSG) and converted to C352 using wsg2vgm.py.",
+    "vgm_author": "gRg",
+    "author": "Nobuyuki Ohnogi"
+  },
+  "songs": [
+    {
+      "song_title": "Opening Animation Music"
+    },
+    {
+      "song_title": "Game Start Sound"
+    },
+    {
+      "song_title": "In-Game Music (Main Theme)"
+    },
+    {
+      "song_title": "Game Over"
+    },
+    {
+      "song_title": "Extend Music"
+    },
+    {
+      "song_title": "Round Clear Music"
+    },
+    {
+      "song_title": "Miss"
+    },
+    {
+      "song_title": "Trampoline - Jump"
+    },
+    {
+      "song_title": "Target - Get"
+    },
+    {
+      "song_title": "Hurry-up Sound 1st Spurt"
+    },
+    {
+      "song_title": "Microwave - Take Off"
+    },
+    {
+      "song_title": "Bonus Round Music"
+    },
+    {
+      "song_title": "Bonus Round Fanfare"
+    },
+    {
+      "song_title": "Name Entry"
+    },
+    {
+      "song_title": "Name Entry Ending"
+    },
+    {
+      "song_title": "Hurry-up Sound 2nd Spurt"
+    },
+    {
+      "song_title": "Big Balloon - Get (Bonus Round Clear)"
+    },
+    {
+      "song_title": "Result Music"
+    },
+    {
+      "song_title": "Bell - Drop"
+    },
+    {
+      "song_title": "Coin Sound #1"
+    },
+    {
+      "song_title": "Coin Sound #2"
+    },
+    {
+      "song_title": "Credit Sound"
+    },
+    {
+      "song_title": "Coin Sound #3"
+    }
+  ]
+}

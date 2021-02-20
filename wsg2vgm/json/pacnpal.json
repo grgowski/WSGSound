@@ -1,0 +1,105 @@
+{
+    "rom_info": {
+      "game_name": "pacnpal",
+      "rom_filename": "pacnpal.zip",
+	  "driver": "pacnpal",
+      "wavetable_filename": "pap1-3.3m",
+      "songs_total": 23,
+      "songs_table": "0xF53D",
+      "notes_table": "0xF6FC",
+	  "song_offsets": "0xF4E1",
+      "waves_table": "0xF5F1",
+	  "note_tuning": "0xF5B5",
+	  "decay": "0xF6A5",
+	  "sustain": "0xF669",
+	  "attack": "0xF62D",
+	  "attack_env": "0xF6E1",
+      "rom_files": [
+        {
+          "offset": "0xF000",
+          "filename": "pap1-4.1k"
+        }
+      ]
+    },
+  "game_info": {
+    "game_title": "Pac & Pal",
+    "platform": "Namco Super Pacman",
+    "date": "1983/07",
+    "notes": "Written for Namco 15XX 8-voice Wavetable Sound Generator (WSG) and converted to C352 using wsg2vgm.py.",
+    "vgm_author": "gRg",
+    "author": "Yuriko Keino"
+  },
+  "songs": [
+    {
+      "song_title": "Credit Sound"
+    },
+    {
+      "song_title": "Game Start Music"
+    },
+    {
+      "song_title": "Main BGM"
+    },
+    {
+      "song_title": "Sound #0"
+    },
+    {
+      "song_title": "Sound #1"
+    },
+    {
+      "song_title": "Sound #2"
+    },
+    {
+      "song_title": "Sound #3"
+    },
+    {
+      "song_title": "Sound #4"
+    },
+    {
+      "song_title": "Sound #5"
+    },
+    {
+      "song_title": "Sound #6"
+    },
+    {
+      "song_title": "Sound #7"
+    },
+    {
+      "song_title": "Sound #8"
+    },
+    {
+      "song_title": "Sound #9"
+    },
+    {
+      "song_title": "Sound #10"
+    },
+    {
+      "song_title": "Sound #11"
+    },
+    {
+      "song_title": "Sound #12"
+    },
+    {
+      "song_title": "Sound #13"
+    },
+    {
+      "song_title": "Rest Time BGM (Bonus Stage)"
+    },
+    {
+      "song_title": "Sound #14"
+    },
+    {
+      "song_title": "Sound #15"
+    },
+    {
+      "song_title": "Game Over Music"
+    },
+    {
+      "song_title": "Name Entry Music #1",
+	  "loop": true	  
+    },
+    {
+      "song_title": "Name Entry Music #2-5",
+	  "loop": true	  
+    }
+  ]
+}
